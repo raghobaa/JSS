@@ -1,6 +1,6 @@
 # JSS
 
-JSS Hackathon - EcoAQI Hub
+ EcoAQI Hub
 Dual-purpose platform combining real-time AQI monitoring with interactive maps and an e-commerce site for environmental contributions with AI-verified photo uploads and rewards.
 
 🚀 What We Built
